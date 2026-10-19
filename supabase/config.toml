@@ -1,0 +1,4 @@
+project_id = "wichlist"
+
+[functions.analyze-product]
+verify_jwt = true
